@@ -5,8 +5,6 @@ set wildmenu"按TAB键时命令行自动补齐"
 set number "显示行号"
 set visualbell"禁止响铃"
 set ruler"显示当前光标位置"
-set autoread"文件在Vim之外修改过，自动重新读入"
-set autochdir"当前目录随着被编辑文件的改变而改变"
 set nocp "使用vim而非vi"
 
 filetype on "启动文件类型检查"
